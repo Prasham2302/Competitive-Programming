@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a5939e0-f084-4252-9937-04fef4d54843" name="Default Changelist" comment="" />
+    <list default="true" id="75c31352-fbcc-4849-b437-18cbaf9ab175" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1sDCGND2twDzkIPu5glCqMDyM6g" />
+  <component name="ProjectId" id="1uRjHisv1UPdjfHPv7TkOYjZirW" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -32,10 +32,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P2">
+  <component name="RunManager" selected="Application.P3">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Codeforces contest 720 Div 2" />
+      <module name="Codeforces contest 728 Div 2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -45,7 +45,20 @@
     </configuration>
     <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.P2" />
-      <module name="Codeforces contest 720 Div 2" />
+      <module name="Codeforces contest 728 Div 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.P3" />
+      <module name="Codeforces contest 728 Div 2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
@@ -59,9 +72,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.P2" />
+      <item itemvalue="Application.P3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P3" />
         <item itemvalue="Application.P2" />
         <item itemvalue="Application.Main" />
       </list>
@@ -72,14 +87,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7a5939e0-f084-4252-9937-04fef4d54843" name="Default Changelist" comment="" />
-      <created>1620397676837</created>
+      <changelist id="75c31352-fbcc-4849-b437-18cbaf9ab175" name="Default Changelist" comment="" />
+      <created>1624635209342</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1620397676837</updated>
-      <workItem from="1620397680309" duration="7276000" />
-      <workItem from="1620417070693" duration="16000" />
-      <workItem from="1620480075228" duration="263000" />
+      <updated>1624635209342</updated>
+      <workItem from="1624635213127" duration="6389000" />
+      <workItem from="1625286442759" duration="56000" />
     </task>
     <servers />
   </component>
