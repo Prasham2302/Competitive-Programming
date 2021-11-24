@@ -1,8 +1,7 @@
 package com.company;
 
-public class Main {
-
+public class P4two {
     public static void main(String[] args) {
-	// write your code here
+
     }
 }
